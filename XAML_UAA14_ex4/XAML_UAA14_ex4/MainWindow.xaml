@@ -1,0 +1,13 @@
+﻿<Window x:Class="XAML_UAA14_ex4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XAML_UAA14_ex4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="600">
+    <Grid>
+        <TextBlock TextAlignment="Left" VerticalAlignment="Center" HorizontalAlignment="Left" Width="320" Height="200" TextWrapping="Wrap" >Basternis terga signatis ut transiturus transiturus basternis praedatorios dicitur et equos signatis latera globos globos relicto ampla globos quod per ne progrediar quidem comicus calceis discurrunt signatis terga cuncta et Sannione post sine terga illuc terga longius illuc ait properantes per post imitatae post voragines domi ait voluptatum properantes signatis transiturus sine et quos latera equos progrediar basternis periculi familiarium complures urbis enim civitatis per comicus per quod agmina latera voluptatum quod complures per voragines voluptatum complures per terga</TextBlock>
+        <TextBlock TextAlignment="Left" VerticalAlignment="Center" HorizontalAlignment="Left"  Width="275" Height="200" TextWrapping="Wrap" Margin="325,0,0,0" >Basternis terga signatis ut transiturus transiturus basternis praedatorios dicitur et equos signatis latera globos globos relicto ampla globos quod per ne progrediar quidem comicus calceis discurrunt signatis terga cuncta et Sannione post sine terga illuc terga longius illuc ait properantes per post imitatae post voragines domi ait voluptatum properantes signatis transiturus sine et quos latera equos progrediar basternis periculi familiarium complures urbis enim civitatis per comicus per quod agmina latera voluptatum quod complures per voragines voluptatum complures per terga</TextBlock>
+    </Grid>
+</Window>

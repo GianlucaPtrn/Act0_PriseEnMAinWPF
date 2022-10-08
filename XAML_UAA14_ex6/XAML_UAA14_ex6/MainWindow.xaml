@@ -1,0 +1,20 @@
+﻿<Window x:Class="XAML_UAA14_ex6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XAML_UAA14_ex6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox HorizontalAlignment="Center" VerticalAlignment="Center" Height="25px" >
+            <ListBoxItem Background="#000000" Foreground="#00FF00" >Guarda come flexo</ListBoxItem>
+            <ListBoxItem Background="#000000" Foreground="#00FFAE" >Guarda come flexo 2</ListBoxItem>
+            <ListBoxItem Background="#000000" Foreground="#00B9FF" >420</ListBoxItem>
+            <ListBoxItem Background="#000000" Foreground="#004DFF" >Piano Piano Way</ListBoxItem>
+            <ListBoxItem Background="#000000" Foreground="#B600FF" >Offline</ListBoxItem>
+            <ListBoxItem Background="#000000" Foreground="#FF00FF" >Rick E Morty</ListBoxItem>
+            <ListBoxItem Background="#000000" Foreground="#FF0000" >Blun7 a Swishland</ListBoxItem>
+        </ListBox>
+    </Grid>
+</Window>
